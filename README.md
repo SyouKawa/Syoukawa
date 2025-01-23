@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Syoukawa's GitHub stats](https://github-readme-stats.vercel.app/tpp-langs/api?username=syoukawa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syoukawa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SyouKawa/Syoukawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
